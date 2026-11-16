@@ -18,95 +18,95 @@ Interfacing With The Computer
 
 <br>
 
-|Picobot
+Picobot
 ---
-|[Introduction to Picobot](intro_picobot)
+* [Introduction to Picobot](intro_picobot)
 
 <br>
 
-|Intro to Python
+Intro to Python
 ---
-|[Four Fours](fours)
+* [Four Fours](fours)
 
 <br>
 
-|Branching
+Branching
 ---
-|[Rock, Paper, Scissors](rock_paper_scissors)
-|[Interactive Fiction](interactive_fiction)
+* [Rock, Paper, Scissors](rock_paper_scissors)
+* [Interactive Fiction](interactive_fiction)
 
 <br>
 
-|Slicing
+Slicing
 ---
-|[Sequences and Data](sequences_data)
+* [Sequences and Data](sequences_data)
 
 <br>
 
-|Functions
+Functions
 ---
-|[Function Fun](functions)
-|[Intro to Turtles](pre_turtle)
+* [Function Fun](functions)
+* [Intro to Turtles](pre_turtle)
 
 <br>
 
-|Recursion
+Recursion
 ---
-|[Function Frenzy](func_frenzy)
-|[Turtles!](turtle)
-|[More Recursion](recursion_challenges)
+* [Function Frenzy](func_frenzy)
+* [Turtles!](turtle)
+* [More Recursion](recursion_challenges)
 
 <br>
 
-|List Comprehension
+List Comprehension
 ---
-|[Numeric Integration](integrals)
-|[Sleepwalking Student (BONUS!)](sleepwalking_student)
+* [Numeric Integration](integrals)
+* [Sleepwalking Student (BONUS!)](sleepwalking_student)
 
 <br>
 
-|Functional Programming Design
+Functional Programming Design
 ---
-|[Caesar Shift](caesar_shift)
-|[Threeze](threeze)
+* [Caesar Shift](caesar_shift)
+* [Threeze](threeze)
 
 <br>
 
-|Looping
+Looping
 ---
-|[Inroduction to Looping](intro_looping)
-|[Pie from Pi](pie_from_pi)
+* [Inroduction to Looping](intro_looping)
+* [Pie from Pi](pie_from_pi)
 
 <br>
 
-|Nested Loops
+Nested Loops
 ---
-|[Multiplication Table](mult_table)
-|[Ascii Art](asciiart)
-|[Conway's Game of Life](conway)
+* [Multiplication Table](mult_table)
+* [Ascii Art](asciiart)
+* [Conway's Game of Life](conway)
 
 <br>
 
-|User Interactions
+User Interactions
 ---
-|[Verifying Inputs](verifying_input)
-|[TT Securities](tt_securities)
+* [Verifying Inputs](verifying_input)
+* [TT Securities](tt_securities)
 
 <br>
 
-|Object Orientted Programming
+Object Orientted Programming
 ---
-|[Building a Date Class](date)
-|[Connect Four](connect_four)
+* [Building a Date Class](date)
+* [Connect Four](connect_four)
 
 <br>
 
-|Dictionaries
+Dictionaries
 ---
-|[Markov Text Generator](markov)
+* [Markov Text Generator](markov)
 
 <br>
 
-|Graphics
+Graphics
 ---
-|[vpython](vpython)
+* [vpython](vpython)
