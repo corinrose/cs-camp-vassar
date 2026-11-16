@@ -1,7 +1,7 @@
 baseURL = "http://cscamp.cs.vassar.edu/"
 languageCode = "en-us"
 title = "Computer Science Summer Camp"
-theme = "hugo-theme-learn"
+theme = "hugo-theme-relearn"
 
 [params]
   # Disable search function. It will hide search bar.
