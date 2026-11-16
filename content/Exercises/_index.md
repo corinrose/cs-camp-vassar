@@ -7,14 +7,14 @@ weight: 200
 Here are all of our exercises grouped by topic!
 Note that some of the later links may not work until we complete the exercises.
 
-|Interfacing With The Computer
+Interfacing With The Computer
 ---
-|[What is a Command Shell?](cmd_shell)
-|[Navigating Files and Directories](nav_files_dirs)
-|[Working with Files and Directories](using_files_dirs)
-|[Pipes and Filters](pipes_filters)
-|[Finding Things](finding_things)
-|[Using Visual Studio Code](using_vscode)
+* [What is a Command Shell?](cmd_shell)
+* [Navigating Files and Directories](nav_files_dirs)
+* [Working with Files and Directories](using_files_dirs)
+* [Pipes and Filters](pipes_filters)
+* [Finding Things](finding_things)
+* [Using Visual Studio Code](using_vscode)
 
 <br>
 
