@@ -1,7 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Vassar CS Summer Camp"
-
-theme = "hugo-theme-learn"
-
-
