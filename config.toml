@@ -1,0 +1,11 @@
+baseURL = "http://cscamp.cs.vassar.edu/"
+languageCode = "en-us"
+title = "Computer Science Summer Camp"
+theme = "hugo-theme-learn"
+
+[params]
+  # Disable search function. It will hide search bar.
+  disableSearch = true
+# Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "blue"
+  
